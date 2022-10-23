@@ -1,1 +1,4 @@
-﻿using Ejercicio_de_estructura_4;
+﻿using Ejercicio_de_Estructura_4;
+
+LeerArchivo.Iniciar();
+Menu.Iniciar();
